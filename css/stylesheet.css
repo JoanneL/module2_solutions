@@ -5,26 +5,16 @@
 h1 {
 	text-align: center;
 	font-size: 1.75em;
+  font-family: Arial, Helvetica, sans-serif;
 	margin:20px;
 }
-
-/**
-section{
-	width: 80%;
-	height: 150px;
-	border: 1px solid black;
-	padding: 0px;
-	margin-left: auto;
-	margin-right: auto;
-	background-color: #d3d3d3;
-}
-**/
 
 p{
 	width: 30%;
 	height: 30px;
 	margin: 0px; 
 	padding: 5px;
+  font: bold;
 	border: 1px solid black;
 	text-align: center;
 	position: relative;
@@ -35,7 +25,9 @@ p{
 	background-color: #ffa07a;
 }
 #p2{
-	background-color: #8470ff;
+	background-color: #FF0000;
+  color: white;
+
 }
 #p3{
 	background-color: #ffffe0;
@@ -51,7 +43,6 @@ p{
   position: relative;
 
 }
-
 
 .box {
 	width: 100%;
